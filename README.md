@@ -4,6 +4,7 @@
   <img src="preview.gif" width="240" alt="蓝泡 Codex 动画宠物预览">
 </p>
 
+蛋仔派对蛋小黑，蓝泡是ai为他取得名字，这个名字也挺符合蛋小黑形象的，所以我也没有改。
 蓝泡是一只适配 Codex v2 的自定义动画宠物：圆滚滚的蓝色宇航小企鹅，戴着橙嘴鸭舌帽、黑色眼罩和蓝白条纹宇航服。
 <img width="1080" height="1272" alt="图层 1" src="https://github.com/user-attachments/assets/76c357f4-7bae-4a87-8700-753b2a26dbd0" />
 
@@ -16,6 +17,7 @@
 - 图集尺寸：`1536 × 2288`
 - 图集版本：`spriteVersionNumber: 2`
 - 动画预览：`preview.gif`
+<img width="192" height="208" alt="preview" src="https://github.com/user-attachments/assets/74b02864-8026-4633-9a3f-445ebd8da9b7" />
 
 ## 文件结构
 
