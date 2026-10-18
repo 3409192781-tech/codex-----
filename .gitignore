@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Local secrets
+.env
+.env.*
+*.pem
+*.key
