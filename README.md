@@ -5,6 +5,7 @@
 </p>
 
 蓝泡是一只适配 Codex v2 的自定义动画宠物：圆滚滚的蓝色宇航小企鹅，戴着橙嘴鸭舌帽、黑色眼罩和蓝白条纹宇航服。
+<img width="1080" height="1272" alt="图层 1" src="https://github.com/user-attachments/assets/76c357f4-7bae-4a87-8700-753b2a26dbd0" />
 
 ## 包含内容
 
